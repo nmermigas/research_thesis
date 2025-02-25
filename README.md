@@ -71,7 +71,6 @@ This research has several practical implications and future steps:
 *   Enhancing robustness through adversarial training
 *   Combining BERT with other modalities
 
-## References
 
 ## References
 
