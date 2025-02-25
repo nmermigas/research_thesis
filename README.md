@@ -120,4 +120,4 @@ A. Wang et al., "**Cross-lingual Language Model Pretraining**," 2020 [54].
 J. Ye et al., "**Sentiment-aware multimodal pre-training for multimodal sentiment analysis**," 2022 [55].
 
 H. Zhang et al., "**Multilingual Sentiment Analysis: A Survey**," 2021 [31].
-This README provides a comprehensive overview of the thesis, highlighting key points and results. It also includes information about the experimental settings, evaluation metrics, and models used. Finally, it mentions the practical implications and future steps of this research
+
