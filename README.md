@@ -73,48 +73,52 @@ This research has several practical implications and future steps:
 
 ## References
 
-K. Clark et al., "**ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators**," 2020.
+## References
 
-A. Conneau et al., "**Unsupervised Cross-lingual Representation Learning at Scale**," 2020.
+1. Y. Cao, R. Xu, and Y. Lin. “An Overview of Deep Learning-based Sentiment Analysis: Techniques, Challenges, and Interpretability”. In: *Information Fusion* (2021).
 
-J. Devlin et al., "**BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**," 2018.
+2. Kevin Clark et al. *ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators*. 2020. arXiv: [2003.10555](https://arxiv.org/abs/2003.10555) [cs.CL].
 
-J. Howard and S. Ruder, "**Universal Language Model Fine-tuning for Text Classification**," 2018.
+3. A. Conneau et al. “Unsupervised Cross-lingual Representation Learning at Scale”. In: (2020). arXiv: [1911.02116](https://arxiv.org/abs/1911.02116).
 
-S. Jain et al., "**Learning to Faithfully Rationalize by Construction**," 2020.
+4. J. Devlin et al. “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding”. In: (2018). arXiv: [1810.04805](https://arxiv.org/abs/1810.04805).
 
-X. Jiao et al., "**TinyBERT: Distilling BERT for Natural Language Understanding**," 2019.
+5. Jeremy Howard and Sebastian Ruder. “Universal Language Model Fine-tuning for Text Classification”. In: *arXiv preprint* (2018). arXiv: [1801.06146](https://arxiv.org/abs/1801.06146).
 
-M. Joshi et al., "**SpanBERT: Improving Pre-training by Representing and Predicting Spans**," 2019.
+6. Sarthak Jain et al. “Learning to Faithfully Rationalize by Construction”. In: *arXiv preprint* (2020). arXiv: [2005.00115](https://arxiv.org/abs/2005.00115).
 
-D. Kondratyuk and M. Straka, "**75 Languages, 1 Model: Parsing Universal Dependencies Universally**," 2019.
+7. Xiaoqi Jiao et al. *TinyBERT: Distilling BERT for Natural Language Understanding*. 2019. arXiv: [1909.10351](https://arxiv.org/abs/1909.10351) [cs.CL].
 
-Z. Lan et al., "**Albert: A Lite Bert for Self-supervised Learning of Language Representations**," 2019.
+8. Mandar Joshi et al. *SpanBERT: Improving Pre-training by Representing and Predicting Spans*. 2019. arXiv: [1907.10529](https://arxiv.org/abs/1907.10529) [cs.CL].
 
-X. Li et al., "**A Survey on Sentiment Analysis: Techniques, Challenges, and Applications**," 2020.
+9. Dan Kondratyuk and Milan Straka. “75 Languages, 1 Model: Parsing Universal Dependencies Universally”. In: *Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)*. 2019. [PDF](https://aclanthology.org/D19-1279.pdf).
 
-Y. Liu et al., "**RoBERTa: A Robustly Optimized BERT Pretraining Approach**," 2019.
+10. Zhenzhong Lan et al. *Albert: A Lite Bert for Self-supervised Learning of Language Representations*. 2019. arXiv: [1909.11942](https://arxiv.org/abs/1909.11942) [cs.CL].
 
-R. Martınez-Tomas M. Taboada and J.M. Ferrandez, "**New perspectives on the application of expert systems**," 2011.
+11. X. Li et al. “A Survey on Sentiment Analysis: Techniques, Challenges, and Applications”. In: *Knowledge-Based Systems* (2020). [DOI](https://link.springer.com/article/10.1007/s10462-022-10144-1).
 
-T. Mikolov et al., "**Distributed Representations of Words and Phrases and their Compositionality**," 2013.
+12. Yinhan Liu et al. *RoBERTa: A Robustly Optimized BERT Pretraining Approach*. 2019. arXiv: [1907.11692](https://arxiv.org/abs/1907.11692) [cs.CL].
 
-B. Pang and L. Lee, "**Opinion Mining and Sentiment Analysis**," 2008.
+13. R. Martınez-Tomas M. Taboada and J.M. Ferrandez. “New perspectives on the application of expert systems”. In: *The Journal of Knowledge Engineering* (2011). DOI: [10.1111/j.1468-0394.2011.00599.x](https://doi.org/10.1111/j.1468-0394.2011.00599.x).
 
-T. Pires, E. Schlinger, and D. Garrette, "**How multilingual is Multilingual BERT?**" 2019.
+14. T. Mikolov et al. “Distributed Representations of Words and Phrases and their Compositionality”. In: *Advances in Neural Information Processing Systems* (2013). arXiv: [1310.4546](https://arxiv.org/abs/1310.4546).
 
-S. Ruder, I. Vulic, and A. Søgaard, "**A Survey of Cross-lingual Word Embedding Models**," 2019.
+15. B. Pang and L. Lee. “Opinion Mining and Sentiment Analysis”. In: *Foundations and Trends in Information Retrieval* (2008).
 
-V. Sanh et al., "**DistilBERT, a Distilled Version of BERT: Smaller, Faster, Cheaper, and Lighter**," 2019.
+16. Telmo Pires, Eva Schlinger, and Dan Garrette. *How multilingual is Multilingual BERT?* 2019. arXiv: [1906.01502](https://arxiv.org/abs/1906.01502) [cs.CL].
 
-C. Sun, X. Qiu, and X. Huang, "**Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence**," 2019.
+17. S. Ruder, I. Vulic, and A. Søgaard. “A Survey of Cross-lingual Word Embedding Models”. In: *Journal of Artificial Intelligence Research* 65 (2019). arXiv: [1706.04902](https://arxiv.org/abs/1706.04902).
 
-D. Tang, B. Qin, and T. Liu, "**Document Modeling with Gated Recurrent Neural Network for Sentiment Classification**," 2015.
+18. V. Sanh et al. “DistilBERT, a Distilled Version of BERT: Smaller, Faster, Cheaper, and Lighter”. In: (2019). arXiv: [1910.01108](https://arxiv.org/abs/1910.01108).
 
-A. Vaswani et al., "**Attention is All you Need**," 2017.
+19. C. Sun, X. Qiu, and X. Huang. “Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence”. In: (2019). arXiv: [1903.09588](https://arxiv.org/abs/1903.09588) [cs.CL].
 
-A. Wang et al., "**Cross-lingual Language Model Pretraining**," 2020.
+20. D. Tang, B. Qin, and T. Liu. “Document Modeling with Gated Recurrent Neural Network for Sentiment Classification”. In: (2015). [PDF](https://aclanthology.org/D15-1167).
 
-J. Ye et al., "**Sentiment-aware multimodal pre-training for multimodal sentiment analysis**," 2022.
+21. A. Vaswani et al. “Attention is All you Need”. In: *Advances in Neural Information Processing Systems* (2017).
 
-H. Zhang et al., "**Multilingual Sentiment Analysis: A Survey**," 2021.
+22. A. Wang et al. “Cross-lingual Language Model Pretraining”. In: (2020). arXiv: [2001.08210](https://arxiv.org/abs/2001.08210).
+
+23. Junjie Ye et al. “Sentiment-aware multimodal pre-training for multimodal sentiment analysis”. In: *Knowledge-Based Systems* (2022). DOI: [10.1016/j.knosys.2022.110021](https://doi.org/10.1016/j.knosys.2022.110021).
+
+24. H. Zhang et al. “Multilingual Sentiment Analysis: A Survey”. In: *Information Processing Management* (2021).
